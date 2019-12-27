@@ -2,7 +2,6 @@ package se.tarlinder.beatemup;
 
 import se.tarlinder.ge2d.Engine;
 import se.tarlinder.ge2d.Entity;
-import se.tarlinder.ge2d.input.KeyAdapterInputHandler;
 import se.tarlinder.ge2d.animation.Animation;
 import se.tarlinder.ge2d.animation.AnimationController;
 import se.tarlinder.ge2d.sprite.SpriteCache;
